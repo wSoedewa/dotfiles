@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = willie.soedewa12@gmail.com
+	name = Willie Soedewa
